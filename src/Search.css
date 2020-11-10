@@ -1,0 +1,34 @@
+/* .search {
+  display: flex;
+  margin-top: 30px;
+  height: 30px;
+  width: 100%;
+} */
+
+.search__section {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  border-radius: 24px;
+}
+
+.search__input {
+  padding: 12px;
+  margin-left: 30%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 40%;
+  border-radius: 5px;
+  background-color: lightsteelblue;
+}
+
+.search__icon {
+  margin-left: 10px;
+  cursor: pointer;
+  /* padding: 15px;
+  margin-top: 28px;
+  height: 22px !important;
+  background: lightsalmon;
+  border-radius: 8px;
+  margin-left: 5px; */
+}
